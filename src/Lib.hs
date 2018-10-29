@@ -1,7 +1,6 @@
 module Lib where
 
 import Data.List
-import Data.Aeson
 
 data Point = Point Double Double
   deriving (Show, Eq)
